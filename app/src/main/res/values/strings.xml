@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Festival</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="m1">menu3</string>
+    <string name="m2">menu2</string>
+    <string name="m3">menu4</string>
+    <string name="m4">menu1</string>
+    <string name="o">ovrire</string>
+    <string name="fer">fermer</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chek_internet">Vous n\'êtes pas connectés à Internet</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="email">Email</string>
+    <string name="inscription">Inscription</string>
+    <string name="valider">Valider</string>
+    <string name="champs_obligatoir">Champ obligatoire</string>
+    <string name="email_invalide">Adresse mail invalide</string>
+    <string name="EmailOuMotDePasseInvalide">Email ou mot de passe invalide</string>
+    <string name="nom">Nom</string>
+    <string name="t_l">Tél</string>
+    <string name="prenom">Prenom</string>
+    <string name="confirm_mot_de_passe">Confirm Mot de passe</string>
+    <string name="login">Login</string>
+    <string name="parametre">Parametre</string>
+    <string name="visiter_siteweb">Visiter SiteWeb</string>
+    <string name="festival_bizerte">Festival Bizerte</string>
+    <string name="les_artistes">Les Artistes</string>
+    <string name="propos_du_festival">À propos du Festival</string>
+    <string name="mapfestival">MapFestival</string>
+    <string name="votre_score">Votre Score</string>
+    <string name="modifer">Modifer</string>
+    <string name="chercher">Chercher</string>
+    <string name="service_proximit">Service Proximité</string>
+    <string name="s_il_vous_pla_t_attendez">S\'il vous plaît, attendez…</string>
+    <string name="bienvenue">Bienvenue</string>
+    <string name="annuler">Annuler</string>
+    <string name="bien_jou">Bien Joué</string>
+    <string name="camera">Camera</string>
+    <string name="s_inscrire">S\'inscrire</string>
+    <string name="les_r_ponses_vrai">les réponses vrai</string>
+    <string name="les_r_ponses_fausse">les réponses fausse</string>
+    <string name="quiz_festival_bizerte">Quiz festival Bizerte</string>
+    <string name="tunisie_booking">Tunisie Booking</string>
+    <string name="traveltodo">Travel Todo</string>
+    <string name="apropo">Le Festival International de Bizerte est né en 1974. Les spectacles se déroulaient dans l\'enceinte du Fort d\'Espagne dont la capacité d\'accueil ne dépassait pas 3000 personnes. En 2001, l\'amphitéâtre Khémaies Tarnane a été inauguré pour héberger les manifestations plus ambitieuses du Festival, lui permettant d\'accueillir un public qui peut aller jusqu\'à dix mille personnes.</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="active_gps">S\'il vous plaît activer votre connexion GPS</string>
+    <string name="photo_avec_succees">Votre Photo a été envoyé avec succès</string>
+    <string name="commencer">Commencer</string>
+</resources>

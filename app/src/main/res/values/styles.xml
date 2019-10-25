@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:textViewStyle">@style/AppTheme.Widget.TextView</item>
+    </style>
+
+    <style name="AppTheme.Widget.TextView" parent="android:Widget.Holo.Light.TextView">
+        <item name="fontPath">assets/font/raleway_light</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="colorAccent">#1CA8E4</item>
+        <item name="boxStrokeWidth">2dp</item>
+    </style>
+
+
+    <style name="LinearProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:progressBackgroundTint">@android:color/transparent</item>
+    </style>
+    <!--<style name="counterText">-->
+    <!--<item name="android:textColor">#aa344955</item>-->
+    <!--</style>-->
+
+    <!--<style name="counterOverride">-->
+    <!--<item name="android:textColor">@android:color/holo_red_dark</item>-->
+    <!--</style>-->
+
+    <!--<style name="BottomNavigationView" parent="@style/TextAppearance.AppCompat.Caption">-->
+    <!--<item name="android:textSize">8sp</item>-->
+    <!--</style>-->
+
+    <!--<style name="BottomNavigationView.Active" parent="@style/TextAppearance.AppCompat.Caption">-->
+    <!--<item name="android:textSize">7sp</item>-->
+    <!--</style>-->
+    <!--<style name="FullScreenDialogStyle" parent="Theme.MaterialComponents.Light.DialogWhenLarge">-->
+    <!--<item name="android:statusBarColor">@color/colorPrimary</item>-->
+    <!--<item name="android:windowNoTitle">true</item>-->
+    <!--</style>-->
+</resources>

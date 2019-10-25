@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <group
+        android:id="@+id/gr"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/acueil"
+            android:checkable="true"
+            android:icon="@drawable/ic_home"
+            android:title="Accueil"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/programme"
+            android:checkable="true"
+            android:icon="@drawable/ic_clock"
+            android:title="Programme"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/artiste"
+            android:checkable="true"
+            android:icon="@drawable/ic_artiste"
+            android:title="Artistes"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/service"
+            android:checkable="true"
+            android:icon="@drawable/ic_service"
+            android:title="Service"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/Sponsor"
+            android:checkable="true"
+            android:icon="@drawable/ic_computer"
+            android:title="Sponsor"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/Quiz"
+            android:checkable="true"
+            android:icon="@drawable/ic_gamepad"
+            android:title="Jeux"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/addamis"
+            android:checkable="true"
+            android:icon="@drawable/ic_mesage"
+            android:title="Inviter Amis "
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/info"
+            android:checkable="true"
+            android:icon="@drawable/ic_info"
+            android:title="Info "
+            tools:ignore="HardcodedText" />
+
+    </group>
+    <item
+        android:id="@+id/Parametre"
+        android:title="@string/parametre">
+        <menu
+            android:id="@+id/gp_one"
+            android:checkableBehavior="single">
+            <item
+                android:id="@+id/Profile"
+                android:checkable="true"
+                android:icon="@drawable/ic_user"
+                android:title="Profile"
+                tools:ignore="HardcodedText" />
+            <item
+                android:id="@+id/Deconnexion"
+                android:checkable="true"
+                android:icon="@drawable/ic_decx"
+                android:title="Deconnexion"
+                tools:ignore="HardcodedText" />
+        </menu>
+    </item>
+</menu>
